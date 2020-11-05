@@ -12,6 +12,7 @@ Is/Os: record strict Is and Os per shift<br>
 Meds: <br>
 - propanolol 10 mg po qid<br>
 - octreotide drip<br>
+
 Labs:<br>
 - CBC q6h<br>
 - COMP with AM labs
