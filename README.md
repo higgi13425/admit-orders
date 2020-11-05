@@ -10,8 +10,8 @@ Nursing: Notify HO if T> 38.5C, HR>120, DBP<40, or vomiting blood<br>
 Diet: NPO p MDN<br>
 Is/Os: record strict Is and Os per shift<br>
 Meds: <br>
-propanolol 10 mg po qid<br>
-octreotide drip<br>
+- propanolol 10 mg po qid<br>
+- octreotide drip<br>
 Labs:<br>
 - CBC q6h<br>
 - COMP with AM labs
