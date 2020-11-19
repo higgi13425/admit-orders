@@ -16,3 +16,5 @@ Meds: <br>
 Labs:<br>
 - CBC q6h<br>
 - COMP with AM labs
+- PTT and PT INR with AM labs
+- EKG in AM
